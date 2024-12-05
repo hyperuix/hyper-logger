@@ -1,0 +1,17 @@
+{
+    "name": "hyperuix/hyper-logger",
+    "description": "Monitors website uptime and sends email notifications for downtime.",
+    "homepage": "https://github.com/hyperuix/hyper-logger",
+    "license": "GPL3",
+    "authors": [
+      {
+        "name": "Erin Welch",
+        "email": "contact@hyperuix.com.au",
+        "homepage": "https://www.hyperuix.com.au/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.4"
+    }
+  }
