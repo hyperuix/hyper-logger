@@ -47,7 +47,7 @@ This plugin is ideal for users who need a reliable, comprehensive monitoring sol
 
 ```
 # 1. Get it ready (to use a repo outside of packagist)
-composer config repositories.pvtl-logger git https://github.com/hyperuix/hyper-logger
+composer config repositories.hyper-logger git https://github.com/hyperuix/hyper-logger
 
 # 2. Install the Plugin
 composer require hyperuix/hyper-logger
